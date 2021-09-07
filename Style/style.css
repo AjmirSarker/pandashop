@@ -1,0 +1,133 @@
+.nav-link{
+    width: 90px;
+}
+#lastnav{
+    width: 120px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.bold{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.bold:hover{
+    color:steelblue;
+}
+.dim{
+    color: dimgray;
+}
+.dim:hover{
+    color: teal;
+
+}
+.lightpink{
+    color:#FF136F
+}
+#buybut{
+  
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+
+.cointainer{
+    margin-bottom: 100px;
+}
+.mar{
+    margin-top: 25px;
+}
+.log:hover{
+    transform: scale(1.15);
+    overflow: hidden;
+    transition: transform 2s ease-in-out;
+
+}
+
+#watch{
+    background-image: linear-gradient(to bottom,yellow,orange);
+    color: white;
+    
+
+}
+#bag{
+    background-image: linear-gradient(90deg,pink,peru);
+    color: white;
+}
+
+#shoe{
+    color: white;
+    background-image: linear-gradient(45deg,gray,orange);
+}
+.three {
+    padding: 10px 30px;
+    border-radius: 10px ;
+    overflow: hidden;
+}
+
+
+
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 30px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.categories img{
+    width: 100px;
+}
+.btn-1{
+    background-image: linear-gradient(to bottom,dimgray,black);
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn-1:hover{
+    background-image: linear-gradient(45deg,dimgray,white);
+    color: orangered;
+}
+.card{
+    border: none !important;
+    border-radius: 10px !important;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color:rgba(173, 216, 230, 0.205) !important;
+    
+    
+}
+.card:hover{
+    background-color: white !important;
+}
+.inp{
+    margin: 8px 0;
+    border: none;
+    padding-left: 5px;
+}
+.padtop{
+    padding-top: 40px ;
+}
+.tinfo{
+    color: gray;
+}
+#footer{
+    color: gray;
+}
+#subscribe{
+    height: 300px;
+}
+.bac{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.input{
+    width:400px;
+    height: 40px;
+    
+}
+.bac:hover{
+    background-color:peachpuff;
+}
